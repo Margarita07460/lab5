@@ -1,0 +1,5 @@
+﻿  lab5.cpp
+C:\Users\Маргарита\Desktop\lab5\lab5\lab5.cpp(90,38): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Маргарита\Desktop\lab5\lab5\lab5.cpp(135,49): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Маргарита\Desktop\lab5\lab5\lab5.cpp(161,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab5.vcxproj -> C:\Users\Маргарита\Desktop\lab5\lab5\x64\Debug\lab5.exe
